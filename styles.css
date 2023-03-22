@@ -1,0 +1,12 @@
+.profilePic {
+    display: inline-block;
+    width: 275px;
+    height: 275px;
+    border-radius: 50%;   
+}
+
+.gitHubLink {
+    display: inline-block;
+    width: 100px;
+    width: 100px;
+}
